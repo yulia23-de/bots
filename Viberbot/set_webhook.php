@@ -1,6 +1,6 @@
 <?php
-	$auth_token = 'AUTH_TOKEN';
-	$webhook = 'WEBHOOK_URL';
+	$auth_token = '4c192ff456a7d392-67b088c93f965e32-a45acc4e85dd8fa';
+	$webhook = 'travelbelarus';
 	
 	$jsonData = 
 	'{
